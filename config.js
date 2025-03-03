@@ -19,7 +19,7 @@ const links = [
     {
         title: "Acesssar meu Portfólio",
         url: "https://uvitordev.vercel.app",
-        icon: "external-link",
+        icon: "coffee",
         description: "Conheça meus projetos e habilidades"
     },
     {

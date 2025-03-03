@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Links para todas as minhas redes sociais e projetos">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.cdnfonts.com/css/sf-pro-display?styles=98774,98773" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>vitordev | 2025</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="theme-toggle">
+                <button id="theme-toggle-btn" aria-label="Alternar tema">
+                    <i data-feather="sun" class="icon-sun"></i>
+                    <i data-feather="moon" class="icon-moon"></i>
+                </button>
+            </div>
+
+            <div class="profile">
+                <div class="avatar-container">
+                    <img id="avatar" src="images/avatar.png" alt="Foto de Perfil" class="avatar">
+                </div>
+                <h1 class="name" id="name"></h1>
+                <p class="role" id="role"></p>
+            </div>
+
+            <ul class="links" id="links-container"></ul>
+
+            <div class="social-links" id="social-links-container"></div>
+
+
+            <footer class="footer">
+                <p id="footer-description">
+                    <strong></strong>
+                </p>
+            </footer>
+        </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+    <script src="https://unpkg.com/feather-icons"></script>
+</body>
+
+</html>

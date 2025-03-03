@@ -5,7 +5,7 @@ const siteConfig = {
     url: "https://uvitordev.vercel.app",
     author: {
         name: "Vitor Hugo",
-        role: "Estudando Front-End",
+        role: "Estudando Front-End ☕",
         avatar: "images/avatar.png",
         avatarLight: "images/avatar-light.png",
     },

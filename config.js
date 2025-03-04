@@ -20,25 +20,25 @@ const links = [
         title: "Acesssar meu Portfólio",
         url: "https://uvitordev.vercel.app",
         icon: "coffee",
-        description: "Conheça meus projetos e habilidades"
+        description: "Acessar meu portfólio Front-end."
     },
     {
         title: "Acessar meu certificado",
         url: "https://app.rocketseat.com.br/certificates/5f015c4e-3495-4464-9ae8-53fdda8cf48b",
         icon: "file-text",
-        description: "Guia completo para desenvolvedores"
+        description: "Acesse meu certificado desse curso."
     },
     {
         title: "Acessar o Curso da Rocketseat",
         url: "https://app.rocketseat.com.br/journey/discover/overview",
         icon: "star",
-        description: "Participe do próximo evento"
+        description: "Participe do próximo evento."
     },
     {
         title: "Acessar Meu Projeto",
         url: "https://github.com/uvitordev",
         icon: "github",
-        description: "Veja meus repositórios e contribuições"
+        description: "Veja meus repositórios e contribuições."
     }
 ];
 

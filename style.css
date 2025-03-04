@@ -55,8 +55,7 @@ body {
     background-color: var(--card-rgb);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    padding: 2rem;
-    box-shadow: 0 4px 12px rgba(25, 25, 26, 0.54);
+    padding: 1.5rem;
     position: relative;
 }
 
